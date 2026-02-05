@@ -1,5 +1,4 @@
-# Analysis-of-Adidas-s-retail-operations-paying-close-attention-to-sales-and-profitability
-didas Retail Operations Analysis (2020-2021)
+# Adidas Retail Operations Analysis (2020-2021)
 
 This project provides a comprehensive data analysis of Adidas's retail operations, focusing on sales performance, profitability, and consumer trends across the United States. By examining key financial metrics and distribution channels, this study offers actionable insights to improve operational efficiency and market strategy.
 
